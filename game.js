@@ -12,12 +12,12 @@ kaboom({
 const SPEED = 150;
 let isGrounded = true;
 
-loadSprite("player", "/sprites/player.png");
-loadSprite("player-alt", "/sprites/player-alt.png");
-loadSprite("spike", "/sprites/star.png");
-loadSprite("jumpBoost", "/sprites/jumper.png");
-loadSprite("key", "/sprites/key.png");
-loadSprite("door", "/sprites/door3.png");
+loadSprite("player", "sprites/player.png");
+loadSprite("player-alt", "sprites/player-alt.png");
+loadSprite("spike", "sprites/star.png");
+loadSprite("jumpBoost", "sprites/jumper.png");
+loadSprite("key", "sprites/key.png");
+loadSprite("door", "sprites/door3.png");
 
 loadSound("game", "sound/game.wav");
 loadSound("death", "sound/death.wav");
