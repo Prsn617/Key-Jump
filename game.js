@@ -1,4 +1,4 @@
-import kaboom from "https://unpkg.com/kaboom@2000.2.10/dist/kaboom.mjs";
+import kaboom from "https://unpkg.com/kaboom@2000.1.0/dist/kaboom.mjs";
 
 kaboom({
   global: true,
